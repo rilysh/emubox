@@ -1,0 +1,9 @@
+** emubox
+A 86box manager inside terminal.
+
+** Why?
+There's currently no terminal based 86box manager
+is out there. This is why.
+
+emubox is an "experimental" 86box manager, and may break
+at any point (including but not limited to crashes).
